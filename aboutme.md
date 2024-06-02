@@ -24,4 +24,4 @@ You want my Github do you?
 ...
 What for?
 Just Kidding HAHA 
-Feel free to stalk my [profile](https://github.com/Khu1027) (if you spot any errors, maybe lmk, or not, its up to you :point_right: :point_left:)
+Feel free to stalk my [profile](https://github.com/Khu1027)
