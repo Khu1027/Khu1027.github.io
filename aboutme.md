@@ -1,16 +1,27 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: "One part beauty, One part dream, One part science"
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello! My name is Khulood Ahmad, a university student and robotics enthusiast :D
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### What is this blog for?
 
-What else do you need?
+Hopefully to do and present some code (lets see how that goes)
+- A couple of small coding projects perhaps
+- Maybe a blog post or two on things I find interesting
+- <del>A production diary of a visual novel? </del>
+- Hell its summer, lets try and do them all :]
 
-### My story
+### Wanna chat?
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Trying to be more active on [LinkedIn](https://www.linkedin.com/in/khulood-ahmad-3b633a217/) so feel free to message me there!
+
+Oh?
+You want my Github do you?
+
+...
+What for?
+Just Kidding HAHA 
+Feel free to stalk my [profile](https://github.com/Khu1027) (if you spot any errors, maybe lmk, or not, its up to you :point_right: :point_left:)
