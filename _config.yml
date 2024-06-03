@@ -20,8 +20,9 @@ author: Khulood Ahmad
 ###############################################
 
 navbar-links:
+  Blog: "blog"
   About Me: "aboutme"
-
+  Index: "tags"
 
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
