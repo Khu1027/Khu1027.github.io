@@ -14,7 +14,9 @@ Welcome to my new coding blog!
 As the first blog post I thought it was only appropriate to explain step-by-step how I made my own website/blog and hosted it using GitHub's free hosting service, GitHub Pages, for free!
 
 <!-- ![GitHub Pages Logo](/assets/blog-img/gitpagestut/github-pages-examples.png) -->
-<img src="/assets/blog-img/gitpagestut/github-pages-examples.png" alt="GitHub Pages Logo" width="200"/>
+<div style="text-align: center;">
+    <img src="/assets/blog-img/gitpagestut/github-pages-examples.png" alt="GitHub Pages Logo" width="200"/>
+</div>
 
 ## What is GitHub Pages?
 
