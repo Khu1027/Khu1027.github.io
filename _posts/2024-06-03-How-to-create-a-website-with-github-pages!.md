@@ -81,3 +81,12 @@ For more advanced users, you can clone the repository to your own computer and u
 - From _branch_ select **main** and then **/(root)** and save
 
 ![Edit Repository Settings](/assets/blog-img/gitpagestut/git_pages_settings.png)
+
+### 5) Congrats! You've made your website!
+
+- You can check your website by going on your repo settings and Pages
+- You should see a new area at the top of the page that says _Your site is live at..._
+- Click on the link to see your site!
+- Your website will automatically deploy whenever you push to your repo
+
+![GitHub pages live](/assets/blog-img/gitpagestut/git_page_live.png)
