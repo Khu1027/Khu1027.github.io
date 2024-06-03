@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: "One part beauty, One part dream, One part science"
+cover-img: /assets/img/headers/water.jpeg
 ---
 
 Hello! My name is Khulood Ahmad, a university student and robotics enthusiast :D
