@@ -41,10 +41,11 @@ However for this blog I will be going through the bare basics on how to
 
 ## 1. Create a bare-bones website
 
-> 1) Create a GitHub Account
+### 1) Create a GitHub Account
+
 This can be done by going to [Github.com](https://github.com/) and signing up to a new account
 
-> 2) Create a new repository
+### 2) Create a new repository
 
 {: .box-error}
 Your repository **MUST** be named **[YOUR_GITHUB_USERNAME].github.io**. Other names will not work correctly
@@ -59,7 +60,7 @@ Create your repo and commit any changes
 
 ![Create a Repository](/assets/blog-img/gitpagestut/git_new_pages.png)
 
-> 3) Add a **index.html** file to your repository
+### 3) Add a **index.html** file to your repository
 
 {: .box-note}
 You can add a new file directly on your github repository <br/>
@@ -72,7 +73,7 @@ For more advanced users, you can clone the repository to your own computer and u
 
 ![Create Index.md file](/assets/blog-img/gitpagestut/create_index_file.png)
 
-> 4) Edit your Repo Settings for GitHub Pages
+### 4) Edit your Repo Settings for GitHub Pages
 
 - Click on **Settings** on the navbar at the top of your repo
 - Click on **Pages** on your settings sidebar
