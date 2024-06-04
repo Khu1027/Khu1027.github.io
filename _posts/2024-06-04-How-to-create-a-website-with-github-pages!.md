@@ -42,12 +42,7 @@ However for this blog I will be going through the bare basics on how to
 {: .box-warning}
 **Some things to note** <br/>
 If you will be editing your website on a local computer code editor such as vscode, you might want to download all the necessary libraries and plugins, to your computer, to avoid any issues when using themes and other GitHub Pages extensions.<br/>
-These include:
-- Ruby
-- Bundler
-- Jekyll
-- GitHub Pages Gem
-
+These include: Ruby, Bundler, Jekyll, GitHub Pages Gem
 
 ## 1. Create a bare-bones website
 
@@ -122,7 +117,7 @@ Most (if not all) GitHub Pages Themes have easy-to-follow instructions to add th
 
 <h3>3) Create the necessary files to add the theme</h3>
 
-Jekyll themes make use of the _config.yml configuration file to add the theme to the GitHub Pages. </br>
+Jekyll themes make use of the _config.yml configuration file to add the theme to the GitHub Pages.<br/>
 If the theme requires you to add lines to your _config.yml file, and you do *not* have the file in your repository, simply create a new file of type _config.yml and add the code.
 
 A **Gemfile** is another file you can add to your root repository, with settings to describe the gem dependencies required to run a Ruby program. In the case for the Architect Theme, the GemFile is used to change how you preview your site on your computer
@@ -145,8 +140,7 @@ gem "github-pages", group: :jekyll_plugins
 
 <h3>4) Voila! Your Site is beautified</h3>
 
-Once you have saved/commit/pushed your changes, you're essentially done!!
-
+Once you have saved/commit/pushed your changes, you're essentially done!!<br/>
 Wait until GitHub has automatically deployed your website again to see your changes
 
 
