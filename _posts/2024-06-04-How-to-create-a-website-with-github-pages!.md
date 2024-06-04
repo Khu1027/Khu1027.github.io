@@ -42,7 +42,7 @@ However for this blog I will be going through the bare basics on how to
 {: .box-warning}
 **Some things to note** <br/>
 If you will be editing your website on a local computer code editor such as vscode, you might want to download all the necessary libraries and plugins, to your computer, to avoid any issues when using themes and other GitHub Pages extensions.<br/>
-These include: <br/>
+These include:
 - Ruby
 - Bundler
 - Jekyll
@@ -69,7 +69,7 @@ Create your repo and commit any changes
 
 ![Create a Repository](/assets/blog-img/gitpagestut/git_new_pages.png)
 
-<h3> 3) Add a **index.html** file to your repository </h3>
+<h3> 3) Add a index.html file to your repository </h3>
 
 {: .box-note}
 You can add a new file directly on your github repository <br/>
@@ -86,7 +86,7 @@ For more advanced users, you can clone the repository to your own computer and u
 
 - Click on **Settings** on the navbar at the top of your repo
 - Click on **Pages** on your settings sidebar
-- On _Build and deployment_ select *Deploy from a branch*
+- On _Build and deployment_ select **Deploy from a branch**I
 - From _branch_ select **main** and then **/(root)** and save
 
 ![Edit Repository Settings](/assets/blog-img/gitpagestut/git_pages_settings.png)
@@ -122,8 +122,8 @@ Most (if not all) GitHub Pages Themes have easy-to-follow instructions to add th
 
 <h3>3) Create the necessary files to add the theme</h3>
 
-Jekyll themes make use of the **_config.yml** configuration file to add the theme to the GitHub Pages. </br>
-If the theme requires you to add lines to your _config.yml file, and you do _not_ have the file in your repository, simply create a new file of type **_config.yml** and add the code.
+Jekyll themes make use of the _config.yml configuration file to add the theme to the GitHub Pages. </br>
+If the theme requires you to add lines to your _config.yml file, and you do *not* have the file in your repository, simply create a new file of type _config.yml and add the code.
 
 A **Gemfile** is another file you can add to your root repository, with settings to describe the gem dependencies required to run a Ruby program. In the case for the Architect Theme, the GemFile is used to change how you preview your site on your computer
 
@@ -152,9 +152,12 @@ Wait until GitHub has automatically deployed your website again to see your chan
 
 ## Congrats! You just made and hosted your first website!
 
-I will link some resources that really helped me when creating my own blog. **Remember!** this is a _barebones_ website, but a canvas of infinite possibility. I may make another blog on how I used the [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll?tab=readme-ov-file#add-your-own-content) theme and tailored it to my liking as that was a different process.
+I will link some resources that really helped me when creating my own blog. **Remember!** this is a _barebones_ website, but a canvas of infinite possibility. </br>
+ I may make another blog on how I used the [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll?tab=readme-ov-file#add-your-own-content) theme and tailored it to my liking as that was a different process.
 
 Essentially, if you want to use an existing website template, **Check the repository first before making your own!** Some templates may require you to _fork_ from an existing repository or download files (meaning you will need to delete any files/your whole github.io repository)
+
+Thank you for reading! More interesting blog posts to come I promise!
 
 ## Resources
 
